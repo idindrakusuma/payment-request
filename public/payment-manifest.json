@@ -1,0 +1,6 @@
+{
+  "default_applications": ["http://localhost:3000/manifest.json"],
+  "supported_origins": [
+    "https://alicepay.friendsofalice.example"
+  ]
+}
